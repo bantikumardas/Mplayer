@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/custom_seekbar.xml" value="0.155" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/gradient.xml" value="0.155" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/playergradient.xml" value="0.155" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/prev_button.xml" value="0.155" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/prev_gradient.xml" value="0.155" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/drawable/thumb.xml" value="0.155" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/layout/activity_player.xml" value="0.25" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/layout/list_view_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/menu/my_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/aasui/AndroidStudioProjects/Mplayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
